@@ -1,0 +1,5 @@
+This repository (detc) is for random tests of various things in D.
+
+Right now there are just a few networking things that may be entirely not very
+D-ish, I'm unsure. Probably not a good idea to try to emulate in your own code
+;)
